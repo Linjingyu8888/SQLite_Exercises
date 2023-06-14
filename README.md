@@ -12,10 +12,10 @@ Steps:
 3. to convert letters into numbers;
 
 Function:
--The SQLite substr function returns a substring from a string starting at a specified position with a predefined length.
--The SQLite INSTR searches a substring in a string and returns an integer that indicates the position of the substring, which is the first character of the substring.
--CTE(Common Table Expressions) also known as With function.
--The SQLite REPLACE() function is a string function that allows you to replace all occurrences of a specified string with another string.
+- The SQLite substr function returns a substring from a string starting at a specified position with a predefined length.
+- The SQLite INSTR searches a substring in a string and returns an integer that indicates the position of the substring, which is the first character of the substring.
+- CTE(Common Table Expressions) also known as With function.
+- The SQLite REPLACE() function is a string function that allows you to replace all occurrences of a specified string with another string.
 
 Answer:488-836-2374
 
